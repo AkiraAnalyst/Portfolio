@@ -1,4 +1,4 @@
-# Portfolio
+# SQL Data Cleaning Portfolio
 In this project I used SQL to clean data. 
 This process involved:
 - Standardizing the date format
